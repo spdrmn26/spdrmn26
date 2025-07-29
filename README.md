@@ -11,6 +11,16 @@
 
 - Connect with me:
 <p align="center">
+  <a href="https://www.linkedin.com/in/banerjee-fms/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/ambikabanerjee17/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
+</p>
+
+- Languages and Tools:
+<p align="center">
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
