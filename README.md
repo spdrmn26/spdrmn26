@@ -1,9 +1,5 @@
 ## Hi there, I am Ambika 👋
-A passionate data scientist
-<!--
-**spdrmn26/spdrmn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+*A passionate data scientist*
 
 - 🔭 I'm currently working with AmEx on solving POS Fraud using ML as a Data Scientist
 - 🌱 I’m currently learning deep learning, and gradient boosting algorithms in-depth
@@ -12,4 +8,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about machine learning, credit fraud, gradient boosting, ai
 - 📫 How to reach me: ambikabanerjee17@gmail.com
 - ⚡ Fun fact: I collect information (which I call knowledge) on a variety of topics and recite facts out of context.
--->
