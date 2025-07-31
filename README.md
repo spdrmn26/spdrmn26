@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I am Ambika 👋</h1>
 <p align="center"><i> A passionate data scientist </i></p>
 
-- 🔭 I'm currently working with AmEx on solving POS Fraud using ML as a Data Scientist
+- 🔭 I'm currently working at a Financial services giant on solving POS credit card fraud using ML as a Data Scientist
 - 🌱 I’m currently learning deep learning, and gradient boosting algorithms in-depth
 - 💬 Ask me about machine learning, credit fraud, gradient boosting, ai
 - 📫 How to reach me: ambikabanerjee17@gmail.com
